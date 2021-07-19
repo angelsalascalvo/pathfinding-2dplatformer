@@ -1,5 +1,5 @@
 # Pathfinding 2D Platformer
-Basic example of a pathfinding system for a 2D one-way collision platformer.
+Basic example of a pathfinding system (based on algorithm A*) for a 2D one-way collision platformer.
 The player can cross the platforms using a jump from the bottom of the platform upwards.
 
 
